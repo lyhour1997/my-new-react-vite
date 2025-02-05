@@ -45,7 +45,7 @@ const BootStrap = () => {
                 </div>
             </div>
 
-            <div className="row mt-3">
+            <div className="row mt-3 bg-black">
                 <div className="col-3">
                     <div className="bg-danger">2</div>
                 </div>
