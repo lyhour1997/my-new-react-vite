@@ -47,16 +47,24 @@ const BootStrap = () => {
 
             <div className="row mt-3 bg-black">
                 <div className="col-3">
-                    <div className="bg-danger">2</div>
+                    <div style={{ height:200}} className="bg-danger">
+                        <img className=' w-100 h-100 object-fit-cover' src="https://www.91-cdn.com/hub/wp-content/uploads/2023/11/Best-gaming-phones-in-the-world.png" alt="" />
+                    </div>
                 </div>
                 <div className="col-3">
-                    <div className="bg-danger">2</div>
+                    <div style={{ height:200}} className="bg-danger">
+                        <img className=' w-100 h-100 object-fit-cover' src="https://www.91-cdn.com/hub/wp-content/uploads/2023/11/Best-gaming-phones-in-the-world.png" alt="" />
+                    </div>
                 </div>
                 <div className="col-3">
-                    <div className="bg-danger">2</div>
+                    <div style={{ height:200}} className="bg-danger">
+                        <img className=' w-100 h-100 object-fit-cover' src="https://www.91-cdn.com/hub/wp-content/uploads/2023/11/Best-gaming-phones-in-the-world.png" alt="" />
+                    </div>
                 </div>
                 <div className="col-3">
-                    <div className="bg-danger">2</div>
+                    <div style={{ height:200}} className="bg-danger">
+                        <img className=' w-100 h-100 object-fit-cover' src="https://www.91-cdn.com/hub/wp-content/uploads/2023/11/Best-gaming-phones-in-the-world.png" alt="" />
+                    </div>
                 </div>
             </div>
         </div>
