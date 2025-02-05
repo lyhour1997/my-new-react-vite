@@ -45,7 +45,7 @@ const BootStrap = () => {
                 </div>
             </div>
 
-            <div className="row mt-3 bg-black">
+            <div className="row mt-3 ">
                 <div className="col-3">
                     <div style={{ height:200}} className="bg-danger">
                         <img className=' w-100 h-100 object-fit-cover' src="https://www.91-cdn.com/hub/wp-content/uploads/2023/11/Best-gaming-phones-in-the-world.png" alt="" />
